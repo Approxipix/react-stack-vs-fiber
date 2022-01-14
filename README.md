@@ -19,6 +19,7 @@ Its headline feature is **incremental rendering**: the ability to split renderin
 </div>
 
 ## Demo
+![example](https://github.com/Approxipix/react-stack-vs-fiber/blob/master/example.gif?raw=true)
 
 ## Installation
 ```bash
