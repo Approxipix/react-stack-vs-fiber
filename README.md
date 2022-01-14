@@ -19,3 +19,22 @@ Its headline feature is **incremental rendering**: the ability to split renderin
 </div>
 
 ## Demo
+
+## Installation
+```bash
+# Clone project
+$ git clone https://github.com/Approxipix/react-stack-vs-fiber.git
+
+# Navigate to the directory
+$ cd react-stack-vs-fiber
+
+# Install project dependencies
+$ npm i
+
+# Run app
+$ npm start
+```
+
+## License  <a href="https://github.com/approxipix/react-stack-vs-fiber/blob/master/LICENSE"><img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/approxipix/react-stack-vs-fiber/blob/master/LICENSE) file for more information.
+
